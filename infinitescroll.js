@@ -616,4 +616,4 @@
 			}, execAsap === "execAsap" ? 0 : 10);
 		}
 	};
-})(window, dHelper);
+})(window, jQuery);
